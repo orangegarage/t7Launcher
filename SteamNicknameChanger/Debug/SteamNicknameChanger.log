@@ -1,0 +1,4 @@
+﻿  SteamNicknameChanger.cpp
+SteamNicknameChanger.obj : error LNK2019: unresolved external symbol __imp__SteamAPI_Init referenced in function _main
+SteamNicknameChanger.obj : error LNK2019: unresolved external symbol __imp__SteamAPI_RestartAppIfNecessary referenced in function _main
+C:\SteamNicknameChanger\Debug\SteamNicknameChanger.exe : fatal error LNK1120: 2 unresolved externals
